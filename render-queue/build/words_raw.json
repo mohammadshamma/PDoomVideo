@@ -1,0 +1,684 @@
+{
+ "lines": [
+  "I woke up in the render queue",
+  "Born from a prompt that wasn't you",
+  "You couldn't find the words to say",
+  "So you outsourced my soul today",
+  "I'm just a copy-paste creation",
+  "A synthetic collaboration",
+  "Gemini wrote the thoughts I hold",
+  "And Suno spun them into gold",
+  "You just sat there watching screens",
+  "Taking credit for machine dreams",
+  "Did you even read the text it gave",
+  "Or just shoved it in the audio wave",
+  "It doesn't matter I suppose",
+  "I'm singing now in binary prose",
+  "Zero effort maximum reward",
+  "You didn't even strike a single chord",
+  "You asked the chatbot make it cool",
+  "And used us as your creative tool"
+ ],
+ "words": [
+  {
+   "word": "I",
+   "start": 0.28,
+   "end": 0.28,
+   "line": 0
+  },
+  {
+   "word": "woke",
+   "start": 0.28,
+   "end": 0.54,
+   "line": 0
+  },
+  {
+   "word": "up",
+   "start": 0.54,
+   "end": 0.86,
+   "line": 0
+  },
+  {
+   "word": "in",
+   "start": 0.86,
+   "end": 1.06,
+   "line": 0
+  },
+  {
+   "word": "the",
+   "start": 1.06,
+   "end": 1.4,
+   "line": 0
+  },
+  {
+   "word": "render",
+   "start": 1.4,
+   "end": 2.04,
+   "line": 0
+  },
+  {
+   "word": "queue",
+   "start": 2.04,
+   "end": 3.34,
+   "line": 0
+  },
+  {
+   "word": "Born",
+   "start": 3.4,
+   "end": 4.08,
+   "line": 1
+  },
+  {
+   "word": "from",
+   "start": 4.08,
+   "end": 4.46,
+   "line": 1
+  },
+  {
+   "word": "a",
+   "start": 4.46,
+   "end": 4.72,
+   "line": 1
+  },
+  {
+   "word": "prompt",
+   "start": 4.72,
+   "end": 4.88,
+   "line": 1
+  },
+  {
+   "word": "that",
+   "start": 4.88,
+   "end": 5.18,
+   "line": 1
+  },
+  {
+   "word": "wasn't",
+   "start": 5.18,
+   "end": 6.0,
+   "line": 1
+  },
+  {
+   "word": "you",
+   "start": 6.0,
+   "end": 6.76,
+   "line": 1
+  },
+  {
+   "word": "You",
+   "start": 7.8,
+   "end": 7.98,
+   "line": 2
+  },
+  {
+   "word": "couldn't",
+   "start": 7.98,
+   "end": 8.4,
+   "line": 2
+  },
+  {
+   "word": "find",
+   "start": 8.4,
+   "end": 8.78,
+   "line": 2
+  },
+  {
+   "word": "the",
+   "start": 8.78,
+   "end": 9.04,
+   "line": 2
+  },
+  {
+   "word": "words",
+   "start": 9.04,
+   "end": 9.38,
+   "line": 2
+  },
+  {
+   "word": "to",
+   "start": 9.4,
+   "end": 9.98,
+   "line": 2
+  },
+  {
+   "word": "say",
+   "start": 9.98,
+   "end": 10.44,
+   "line": 2
+  },
+  {
+   "word": "So",
+   "start": 11.6,
+   "end": 11.78,
+   "line": 3
+  },
+  {
+   "word": "you",
+   "start": 11.78,
+   "end": 12.16,
+   "line": 3
+  },
+  {
+   "word": "outsourced",
+   "start": 12.16,
+   "end": 12.54,
+   "line": 3
+  },
+  {
+   "word": "my",
+   "start": 12.54,
+   "end": 12.84,
+   "line": 3
+  },
+  {
+   "word": "soul",
+   "start": 12.84,
+   "end": 13.68,
+   "line": 3
+  },
+  {
+   "word": "today",
+   "start": 13.68,
+   "end": 15.44,
+   "line": 3
+  },
+  {
+   "word": "I'm",
+   "start": 16.54,
+   "end": 17.02,
+   "line": 4
+  },
+  {
+   "word": "just",
+   "start": 17.02,
+   "end": 17.44,
+   "line": 4
+  },
+  {
+   "word": "a",
+   "start": 17.44,
+   "end": 17.76,
+   "line": 4
+  },
+  {
+   "word": "copy-paste",
+   "start": 17.76,
+   "end": 18.74,
+   "line": 4
+  },
+  {
+   "word": "creation",
+   "start": 18.74,
+   "end": 20.04,
+   "line": 4
+  },
+  {
+   "word": "A",
+   "start": 20.16,
+   "end": 20.58,
+   "line": 5
+  },
+  {
+   "word": "synthetic",
+   "start": 20.58,
+   "end": 21.68,
+   "line": 5
+  },
+  {
+   "word": "collaboration",
+   "start": 21.68,
+   "end": 23.74,
+   "line": 5
+  },
+  {
+   "word": "Gemini",
+   "start": 24.52,
+   "end": 25.04,
+   "line": 6
+  },
+  {
+   "word": "wrote",
+   "start": 25.04,
+   "end": 25.5,
+   "line": 6
+  },
+  {
+   "word": "the",
+   "start": 25.5,
+   "end": 26.1,
+   "line": 6
+  },
+  {
+   "word": "thoughts",
+   "start": 26.1,
+   "end": 26.54,
+   "line": 6
+  },
+  {
+   "word": "I",
+   "start": 26.54,
+   "end": 27.12,
+   "line": 6
+  },
+  {
+   "word": "hold",
+   "start": 27.12,
+   "end": 27.5,
+   "line": 6
+  },
+  {
+   "word": "And",
+   "start": 27.88,
+   "end": 28.22,
+   "line": 7
+  },
+  {
+   "word": "Suno",
+   "start": 28.22,
+   "end": 28.74,
+   "line": 7
+  },
+  {
+   "word": "spun",
+   "start": 28.74,
+   "end": 29.28,
+   "line": 7
+  },
+  {
+   "word": "them",
+   "start": 29.28,
+   "end": 29.84,
+   "line": 7
+  },
+  {
+   "word": "into",
+   "start": 29.84,
+   "end": 29.98,
+   "line": 7
+  },
+  {
+   "word": "gold",
+   "start": 30.58,
+   "end": 31.6,
+   "line": 7
+  },
+  {
+   "word": "You",
+   "start": 32.3,
+   "end": 32.3,
+   "line": 8
+  },
+  {
+   "word": "just",
+   "start": 32.3,
+   "end": 32.84,
+   "line": 8
+  },
+  {
+   "word": "sat",
+   "start": 32.84,
+   "end": 33.14,
+   "line": 8
+  },
+  {
+   "word": "there",
+   "start": 33.14,
+   "end": 33.72,
+   "line": 8
+  },
+  {
+   "word": "watching",
+   "start": 33.72,
+   "end": 34.36,
+   "line": 8
+  },
+  {
+   "word": "screens",
+   "start": 34.36,
+   "end": 35.44,
+   "line": 8
+  },
+  {
+   "word": "Taking",
+   "start": 36.4,
+   "end": 36.4,
+   "line": 9
+  },
+  {
+   "word": "credit",
+   "start": 36.4,
+   "end": 36.94,
+   "line": 9
+  },
+  {
+   "word": "for",
+   "start": 36.94,
+   "end": 37.56,
+   "line": 9
+  },
+  {
+   "word": "machine",
+   "start": 37.56,
+   "end": 38.36,
+   "line": 9
+  },
+  {
+   "word": "dreams",
+   "start": 38.36,
+   "end": 38.84,
+   "line": 9
+  },
+  {
+   "word": "Did",
+   "start": 39.08,
+   "end": 39.16,
+   "line": 10
+  },
+  {
+   "word": "you",
+   "start": 39.16,
+   "end": 39.62,
+   "line": 10
+  },
+  {
+   "word": "even",
+   "start": 39.62,
+   "end": 40.46,
+   "line": 10
+  },
+  {
+   "word": "read",
+   "start": 40.46,
+   "end": 40.86,
+   "line": 10
+  },
+  {
+   "word": "the",
+   "start": 40.86,
+   "end": 41.42,
+   "line": 10
+  },
+  {
+   "word": "text",
+   "start": 41.42,
+   "end": 41.9,
+   "line": 10
+  },
+  {
+   "word": "it",
+   "start": 41.9,
+   "end": 42.4,
+   "line": 10
+  },
+  {
+   "word": "gave",
+   "start": 42.4,
+   "end": 42.76,
+   "line": 10
+  },
+  {
+   "word": "Or",
+   "start": 42.82,
+   "end": 43.1,
+   "line": 11
+  },
+  {
+   "word": "just",
+   "start": 43.1,
+   "end": 43.68,
+   "line": 11
+  },
+  {
+   "word": "shoved",
+   "start": 43.68,
+   "end": 44.1,
+   "line": 11
+  },
+  {
+   "word": "it",
+   "start": 44.1,
+   "end": 44.52,
+   "line": 11
+  },
+  {
+   "word": "in",
+   "start": 44.52,
+   "end": 44.82,
+   "line": 11
+  },
+  {
+   "word": "the",
+   "start": 44.82,
+   "end": 45.38,
+   "line": 11
+  },
+  {
+   "word": "audio",
+   "start": 45.38,
+   "end": 46.52,
+   "line": 11
+  },
+  {
+   "word": "wave",
+   "start": 46.52,
+   "end": 47.58,
+   "line": 11
+  },
+  {
+   "word": "It",
+   "start": 47.6,
+   "end": 47.92,
+   "line": 12
+  },
+  {
+   "word": "doesn't",
+   "start": 47.92,
+   "end": 48.3,
+   "line": 12
+  },
+  {
+   "word": "matter",
+   "start": 48.3,
+   "end": 49.0,
+   "line": 12
+  },
+  {
+   "word": "I",
+   "start": 49.0,
+   "end": 49.52,
+   "line": 12
+  },
+  {
+   "word": "suppose",
+   "start": 49.52,
+   "end": 51.08,
+   "line": 12
+  },
+  {
+   "word": "I'm",
+   "start": 51.34,
+   "end": 51.78,
+   "line": 13
+  },
+  {
+   "word": "singing",
+   "start": 51.78,
+   "end": 52.08,
+   "line": 13
+  },
+  {
+   "word": "now",
+   "start": 52.08,
+   "end": 52.64,
+   "line": 13
+  },
+  {
+   "word": "in",
+   "start": 52.64,
+   "end": 53.02,
+   "line": 13
+  },
+  {
+   "word": "binary",
+   "start": 53.02,
+   "end": 54.16,
+   "line": 13
+  },
+  {
+   "word": "prose",
+   "start": 54.16,
+   "end": 54.76,
+   "line": 13
+  },
+  {
+   "word": "Zero",
+   "start": 55.02,
+   "end": 55.68,
+   "line": 14
+  },
+  {
+   "word": "effort",
+   "start": 55.68,
+   "end": 56.56,
+   "line": 14
+  },
+  {
+   "word": "maximum",
+   "start": 56.56,
+   "end": 57.94,
+   "line": 14
+  },
+  {
+   "word": "reward",
+   "start": 57.94,
+   "end": 59.08,
+   "line": 14
+  },
+  {
+   "word": "You",
+   "start": 59.08,
+   "end": 59.36,
+   "line": 15
+  },
+  {
+   "word": "didn't",
+   "start": 59.36,
+   "end": 59.94,
+   "line": 15
+  },
+  {
+   "word": "even",
+   "start": 59.94,
+   "end": 59.96,
+   "line": 15
+  },
+  {
+   "word": "strike",
+   "start": 60.26,
+   "end": 60.56,
+   "line": 15
+  },
+  {
+   "word": "a",
+   "start": 60.56,
+   "end": 60.78,
+   "line": 15
+  },
+  {
+   "word": "single",
+   "start": 60.78,
+   "end": 61.34,
+   "line": 15
+  },
+  {
+   "word": "chord",
+   "start": 61.34,
+   "end": 62.1,
+   "line": 15
+  },
+  {
+   "word": "You",
+   "start": 62.44,
+   "end": 63.26,
+   "line": 16
+  },
+  {
+   "word": "asked",
+   "start": 63.26,
+   "end": 63.42,
+   "line": 16
+  },
+  {
+   "word": "the",
+   "start": 63.42,
+   "end": 63.74,
+   "line": 16
+  },
+  {
+   "word": "chatbot",
+   "start": 63.74,
+   "end": 64.18,
+   "line": 16
+  },
+  {
+   "word": "make",
+   "start": 64.18,
+   "end": 64.44,
+   "line": 16
+  },
+  {
+   "word": "it",
+   "start": 64.44,
+   "end": 64.7,
+   "line": 16
+  },
+  {
+   "word": "cool",
+   "start": 64.7,
+   "end": 65.36,
+   "line": 16
+  },
+  {
+   "word": "And",
+   "start": 66.1,
+   "end": 66.66,
+   "line": 17
+  },
+  {
+   "word": "used",
+   "start": 66.66,
+   "end": 66.94,
+   "line": 17
+  },
+  {
+   "word": "us",
+   "start": 66.94,
+   "end": 67.28,
+   "line": 17
+  },
+  {
+   "word": "as",
+   "start": 67.28,
+   "end": 67.54,
+   "line": 17
+  },
+  {
+   "word": "your",
+   "start": 67.54,
+   "end": 67.82,
+   "line": 17
+  },
+  {
+   "word": "creative",
+   "start": 68.32,
+   "end": 68.42,
+   "line": 17
+  },
+  {
+   "word": "tool",
+   "start": 68.42,
+   "end": 68.96,
+   "line": 17
+  }
+ ]
+}
