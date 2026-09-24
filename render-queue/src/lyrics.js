@@ -1,0 +1,21 @@
+// lyrics.js: [start, end, text, wordStarts[]], force-aligned against the song (stable-ts / Whisper medium).
+const LY = [
+  [0.0, 3.59, "I woke up in the render queue", [0.0, 0.28, 0.52, 0.86, 1.06, 1.4, 2.04]],
+  [3.64, 7.66, "Born from a prompt that wasn't you", [3.64, 4.06, 4.46, 4.72, 4.88, 5.18, 6.0]],
+  [7.8, 11.34, "You couldn't find the words to say", [7.8, 7.98, 8.4, 8.78, 9.04, 9.4, 9.98]],
+  [11.6, 15.53, "So you outsourced my soul today", [11.6, 11.78, 12.16, 12.54, 12.84, 13.68]],
+  [16.54, 20.11, "I'm just a copy-paste creation", [16.54, 17.02, 17.44, 17.76, 18.74]],
+  [20.16, 24.47, "A synthetic collaboration", [20.16, 20.58, 21.68]],
+  [24.52, 27.31, "Gemini wrote the thoughts I hold", [24.52, 25.2, 25.48, 26.1, 26.48, 27.08]],
+  [27.36, 31.53, "And Suno spun them into gold", [27.36, 28.22, 28.94, 29.3, 29.86, 30.9]],
+  [31.58, 35.41, "You just sat there watching screens", [31.58, 32.3, 32.84, 33.12, 33.72, 34.34]],
+  [35.46, 38.81, "Taking credit for machine dreams", [35.46, 36.4, 36.92, 37.56, 38.38]],
+  [38.86, 42.75, "Did you even read the text it gave", [38.86, 39.16, 39.6, 40.44, 40.86, 41.46, 41.88, 42.38]],
+  [42.8, 47.75, "Or just shoved it in the audio wave", [42.8, 43.06, 43.68, 44.06, 44.54, 44.86, 45.34, 46.52]],
+  [47.8, 51.34, "It doesn't matter I suppose", [47.8, 48.05, 48.3, 49.0, 49.6]],
+  [51.52, 54.75, "I'm singing now in binary prose", [51.52, 51.7, 52.06, 52.64, 53.02, 54.1]],
+  [54.8, 58.95, "Zero effort maximum reward", [54.8, 55.64, 57.12, 58.04]],
+  [59.0, 62.15, "You didn't even strike a single chord", [59.0, 59.34, 59.92, 60.26, 60.54, 60.82, 61.34]],
+  [62.2, 65.89, "You asked the chatbot make it cool", [62.2, 63.28, 63.46, 63.76, 64.24, 64.42, 64.72]],
+  [65.94, 69.32, "And used us as your creative tool", [65.94, 66.64, 66.92, 67.26, 67.52, 67.8, 68.3]],
+];
